@@ -1,12 +1,10 @@
 [
   {
     "title": "درس اول",
-    "description": "مروری بر اعداد صحیح برای پایه هفتم",
-    "link": "https://www.youtube.com/embed/VIDEO_ID1"
+    "url": "https://www.youtube.com/watch?v=H-1F5SaB6Q4"
   },
   {
     "title": "درس دوم",
-    "description": "کسرها و اعشار به زبان ساده",
-    "link": "https://www.youtube.com/embed/VIDEO_ID2"
+    "url": "https://www.youtube.com/watch?v=abcd1234xyz"
   }
 ]
